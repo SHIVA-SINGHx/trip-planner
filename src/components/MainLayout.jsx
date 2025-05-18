@@ -1,4 +1,3 @@
-// components/MainLayout.jsx
 import React from 'react';
 import { Header } from './Header';
 import { Controls } from './Controls';
