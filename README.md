@@ -10,6 +10,7 @@ This is a simple and responsive Trip-planner project built using **React.js**, *
 - Title (e.g., "Day 1", "Monday Plan")
 - Activities (comma-separated list)
 - Notes.
+- 
 ✅ Edit existing entries (prompt-based editing)  
 ✅ Delete individual day entries  
 ✅ Show/hide task creation form  
