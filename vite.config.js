@@ -3,4 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
+   bash: process.env.VITE_BASE_PATH || "trip-planner",
 });
